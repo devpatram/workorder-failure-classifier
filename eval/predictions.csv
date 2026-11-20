@@ -1,0 +1,1409 @@
+id,text,component,failure,wording,split,method,pred_component,pred_failure,problems,raw
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test,Keyword rules,coupling,misalignment,,
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test,Keyword rules,bearing,overheating,,
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test,Keyword rules,belt,breakage,,
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test,Keyword rules,bearing,wear,,
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test,Keyword rules,seal,wear,,
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test,Keyword rules,sensor,electrical,,
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test,Keyword rules,hydraulic hose,wear,,
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test,Keyword rules,coupling,wear,,
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test,Keyword rules,gearbox,wear,,
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test,Keyword rules,gearbox,leak,,
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test,Keyword rules,bearing,contamination,,
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test,Keyword rules,hydraulic hose,breakage,,
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test,Keyword rules,sensor,misalignment,,
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test,Keyword rules,hydraulic hose,breakage,,
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test,Keyword rules,sensor,electrical,,
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test,Keyword rules,bearing,misalignment,,
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test,Keyword rules,belt,misalignment,,
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test,Keyword rules,belt,misalignment,,
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test,Keyword rules,belt,loose,,
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test,Keyword rules,hydraulic hose,breakage,,
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test,Keyword rules,bearing,wear,,
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test,Keyword rules,belt,breakage,,
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test,Keyword rules,hydraulic hose,wear,,
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test,Keyword rules,coupling,loose,,
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test,Keyword rules,sensor,electrical,,
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test,Keyword rules,seal,leak,,
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test,Keyword rules,coupling,breakage,,
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test,Keyword rules,hydraulic hose,breakage,,
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test,Keyword rules,coupling,loose,,
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test,Keyword rules,bearing,overheating,,
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test,Keyword rules,belt,breakage,,
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test,Keyword rules,bearing,overheating,,
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test,Keyword rules,gearbox,overheating,,
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test,Keyword rules,motor,overheating,,
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test,Keyword rules,bearing,misalignment,,
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test,Keyword rules,coupling,wear,,
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test,Keyword rules,belt,loose,,
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test,Keyword rules,coupling,wear,,
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test,Keyword rules,belt,misalignment,,
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test,Keyword rules,belt,wear,,
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test,Keyword rules,gearbox,contamination,,
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test,Keyword rules,bearing,overheating,,
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test,Keyword rules,coupling,loose,,
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test,Keyword rules,hydraulic hose,breakage,,
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test,Keyword rules,belt,wear,,
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test,Keyword rules,motor,electrical,,
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test,Keyword rules,coupling,misalignment,,
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test,Keyword rules,hydraulic hose,leak,,
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test,Keyword rules,sensor,contamination,,
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test,Keyword rules,sensor,misalignment,,
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test,Keyword rules,motor,overheating,,
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test,Keyword rules,sensor,contamination,,
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test,Keyword rules,belt,breakage,,
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test,Keyword rules,gearbox,wear,,
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test,Keyword rules,sensor,electrical,,
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test,Keyword rules,sensor,contamination,,
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test,Keyword rules,motor,electrical,,
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test,Keyword rules,belt,wear,,
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test,Keyword rules,belt,breakage,,
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test,Keyword rules,bearing,overheating,,
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test,Keyword rules,,,,
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test,Keyword rules,,,,
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test,Keyword rules,,,,
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test,Keyword rules,,,,
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test,Keyword rules,,,,
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test,Keyword rules,,,,
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test,Keyword rules,,,,
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test,Keyword rules,,,,
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test,Keyword rules,,,,
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test,Keyword rules,,,,
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test,Keyword rules,,,,
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test,Keyword rules,,,,
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test,Keyword rules,,,,
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test,Keyword rules,,,,
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test,Keyword rules,,,,
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test,Keyword rules,,,,
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test,Keyword rules,,,,
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test,Keyword rules,,,,
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test,Keyword rules,,,,
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test,Keyword rules,,,,
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test,Keyword rules,,,,
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test,Keyword rules,,,,
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test,Keyword rules,,,,
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test,Keyword rules,,,,
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test,Keyword rules,,,,
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test,Keyword rules,,,,
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test,Keyword rules,,,,
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test,Keyword rules,,,,
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test,Keyword rules,,,,
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test,Keyword rules,,,,
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test,Keyword rules,,,,
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test,Keyword rules,,,,
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test,Keyword rules,,,,
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test,Keyword rules,,,,
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test,Keyword rules,,,,
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test,Keyword rules,,,,
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test,Keyword rules,,,,
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test,Keyword rules,,,,
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test,Keyword rules,,,,
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test,Keyword rules,,,,
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test,Keyword rules,,,,
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test,Keyword rules,,,,
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test,Keyword rules,,,,
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test,Keyword rules,,,,
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test,Keyword rules,,,,
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test,Keyword rules,,,,
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test,Keyword rules,,,,
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test,Keyword rules,,,,
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test,Keyword rules,,,,
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test,Keyword rules,,,,
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test,Keyword rules,,,,
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test,Keyword rules,,,,
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test,Keyword rules,,,,
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test,Keyword rules,,,,
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test,Keyword rules,,,,
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test,Keyword rules,,,,
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test,Keyword rules,,,,
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test,Keyword rules,,,,
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test,Keyword rules,,,,
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test,Keyword rules,,,,
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test,TF-IDF + logistic regression,coupling,misalignment,,
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test,TF-IDF + logistic regression,bearing,overheating,,
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test,TF-IDF + logistic regression,belt,breakage,,
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test,TF-IDF + logistic regression,bearing,wear,,
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test,TF-IDF + logistic regression,seal,wear,,
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test,TF-IDF + logistic regression,sensor,electrical,,
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test,TF-IDF + logistic regression,coupling,wear,,
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test,TF-IDF + logistic regression,gearbox,wear,,
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test,TF-IDF + logistic regression,gearbox,leak,,
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test,TF-IDF + logistic regression,bearing,contamination,,
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test,TF-IDF + logistic regression,hydraulic hose,breakage,,
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test,TF-IDF + logistic regression,sensor,misalignment,,
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test,TF-IDF + logistic regression,hydraulic hose,breakage,,
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test,TF-IDF + logistic regression,sensor,electrical,,
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test,TF-IDF + logistic regression,bearing,misalignment,,
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test,TF-IDF + logistic regression,belt,misalignment,,
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test,TF-IDF + logistic regression,belt,misalignment,,
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test,TF-IDF + logistic regression,belt,loose,,
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test,TF-IDF + logistic regression,hydraulic hose,breakage,,
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test,TF-IDF + logistic regression,bearing,wear,,
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test,TF-IDF + logistic regression,belt,breakage,,
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test,TF-IDF + logistic regression,coupling,loose,,
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test,TF-IDF + logistic regression,sensor,electrical,,
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test,TF-IDF + logistic regression,seal,leak,,
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test,TF-IDF + logistic regression,coupling,breakage,,
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test,TF-IDF + logistic regression,hydraulic hose,breakage,,
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test,TF-IDF + logistic regression,coupling,loose,,
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test,TF-IDF + logistic regression,bearing,overheating,,
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test,TF-IDF + logistic regression,belt,breakage,,
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test,TF-IDF + logistic regression,bearing,overheating,,
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test,TF-IDF + logistic regression,gearbox,overheating,,
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test,TF-IDF + logistic regression,motor,overheating,,
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test,TF-IDF + logistic regression,bearing,misalignment,,
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test,TF-IDF + logistic regression,coupling,wear,,
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test,TF-IDF + logistic regression,belt,loose,,
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test,TF-IDF + logistic regression,coupling,wear,,
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test,TF-IDF + logistic regression,belt,misalignment,,
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test,TF-IDF + logistic regression,belt,wear,,
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test,TF-IDF + logistic regression,gearbox,contamination,,
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test,TF-IDF + logistic regression,bearing,overheating,,
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test,TF-IDF + logistic regression,coupling,loose,,
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test,TF-IDF + logistic regression,hydraulic hose,breakage,,
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test,TF-IDF + logistic regression,belt,wear,,
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test,TF-IDF + logistic regression,motor,electrical,,
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test,TF-IDF + logistic regression,coupling,misalignment,,
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test,TF-IDF + logistic regression,hydraulic hose,leak,,
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test,TF-IDF + logistic regression,sensor,contamination,,
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test,TF-IDF + logistic regression,sensor,misalignment,,
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test,TF-IDF + logistic regression,motor,overheating,,
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test,TF-IDF + logistic regression,sensor,contamination,,
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test,TF-IDF + logistic regression,belt,breakage,,
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test,TF-IDF + logistic regression,gearbox,wear,,
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test,TF-IDF + logistic regression,sensor,electrical,,
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test,TF-IDF + logistic regression,sensor,contamination,,
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test,TF-IDF + logistic regression,motor,electrical,,
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test,TF-IDF + logistic regression,belt,wear,,
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test,TF-IDF + logistic regression,belt,breakage,,
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test,TF-IDF + logistic regression,bearing,overheating,,
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test,TF-IDF + logistic regression,motor,wear,,
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test,TF-IDF + logistic regression,belt,contamination,,
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test,TF-IDF + logistic regression,gearbox,contamination,,
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test,TF-IDF + logistic regression,gearbox,electrical,,
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test,TF-IDF + logistic regression,gearbox,leak,,
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test,TF-IDF + logistic regression,gearbox,leak,,
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test,TF-IDF + logistic regression,gearbox,overheating,,
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test,TF-IDF + logistic regression,coupling,breakage,,
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test,TF-IDF + logistic regression,gearbox,leak,,
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test,TF-IDF + logistic regression,belt,wear,,
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test,TF-IDF + logistic regression,gearbox,contamination,,
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test,TF-IDF + logistic regression,gearbox,overheating,,
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test,TF-IDF + logistic regression,bearing,leak,,
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test,TF-IDF + logistic regression,motor,wear,,
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test,TF-IDF + logistic regression,motor,wear,,
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test,TF-IDF + logistic regression,coupling,breakage,,
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test,TF-IDF + logistic regression,sensor,leak,,
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test,TF-IDF + logistic regression,coupling,breakage,,
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test,TF-IDF + logistic regression,motor,wear,,
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test,TF-IDF + logistic regression,gearbox,contamination,,
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test,TF-IDF + logistic regression,belt,contamination,,
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test,TF-IDF + logistic regression,belt,wear,,
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test,TF-IDF + logistic regression,motor,wear,,
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test,TF-IDF + logistic regression,gearbox,contamination,,
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test,TF-IDF + logistic regression,belt,wear,,
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test,TF-IDF + logistic regression,coupling,leak,,
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test,TF-IDF + logistic regression,coupling,misalignment,,
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test,TF-IDF + logistic regression,gearbox,electrical,,
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test,TF-IDF + logistic regression,coupling,breakage,,
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test,TF-IDF + logistic regression,sensor,misalignment,,
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test,TF-IDF + logistic regression,coupling,breakage,,
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test,TF-IDF + logistic regression,belt,contamination,,
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test,TF-IDF + logistic regression,bearing,wear,,
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test,TF-IDF + logistic regression,bearing,leak,,
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test,TF-IDF + logistic regression,seal,leak,,
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test,TF-IDF + logistic regression,bearing,breakage,,
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test,TF-IDF + logistic regression,coupling,wear,,
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test,TF-IDF + logistic regression,bearing,overheating,,
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test,TF-IDF + logistic regression,bearing,misalignment,,
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test,TF-IDF + logistic regression,gearbox,wear,,
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test,TF-IDF + logistic regression,hydraulic hose,wear,,
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",coupling,misalignment,,
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test,"TF-IDF, review below 0.6 confidence",bearing,overheating,,
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test,"TF-IDF, review below 0.6 confidence",belt,,,
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test,"TF-IDF, review below 0.6 confidence",bearing,wear,,
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test,"TF-IDF, review below 0.6 confidence",seal,wear,,
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",,,,
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,wear,,
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test,"TF-IDF, review below 0.6 confidence",,wear,,
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test,"TF-IDF, review below 0.6 confidence",gearbox,wear,,
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test,"TF-IDF, review below 0.6 confidence",gearbox,leak,,
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test,"TF-IDF, review below 0.6 confidence",bearing,contamination,,
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,breakage,,
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",sensor,misalignment,,
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,breakage,,
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",sensor,electrical,,
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",bearing,misalignment,,
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",belt,misalignment,,
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",belt,misalignment,,
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test,"TF-IDF, review below 0.6 confidence",belt,loose,,
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,breakage,,
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test,"TF-IDF, review below 0.6 confidence",bearing,wear,,
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test,"TF-IDF, review below 0.6 confidence",belt,,,
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,wear,,
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test,"TF-IDF, review below 0.6 confidence",coupling,loose,,
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",sensor,electrical,,
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test,"TF-IDF, review below 0.6 confidence",seal,leak,,
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test,"TF-IDF, review below 0.6 confidence",coupling,breakage,,
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,breakage,,
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test,"TF-IDF, review below 0.6 confidence",coupling,loose,,
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test,"TF-IDF, review below 0.6 confidence",bearing,overheating,,
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test,"TF-IDF, review below 0.6 confidence",belt,,,
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test,"TF-IDF, review below 0.6 confidence",bearing,overheating,,
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test,"TF-IDF, review below 0.6 confidence",gearbox,overheating,,
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test,"TF-IDF, review below 0.6 confidence",motor,overheating,,
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",,misalignment,,
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test,"TF-IDF, review below 0.6 confidence",,wear,,
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test,"TF-IDF, review below 0.6 confidence",belt,loose,,
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test,"TF-IDF, review below 0.6 confidence",coupling,wear,,
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",belt,misalignment,,
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test,"TF-IDF, review below 0.6 confidence",belt,wear,,
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test,"TF-IDF, review below 0.6 confidence",gearbox,contamination,,
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test,"TF-IDF, review below 0.6 confidence",bearing,overheating,,
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test,"TF-IDF, review below 0.6 confidence",coupling,loose,,
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,breakage,,
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test,"TF-IDF, review below 0.6 confidence",belt,wear,,
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",motor,,,
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",coupling,misalignment,,
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test,"TF-IDF, review below 0.6 confidence",hydraulic hose,leak,,
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test,"TF-IDF, review below 0.6 confidence",sensor,contamination,,
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test,"TF-IDF, review below 0.6 confidence",sensor,misalignment,,
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test,"TF-IDF, review below 0.6 confidence",motor,overheating,,
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test,"TF-IDF, review below 0.6 confidence",sensor,,,
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test,"TF-IDF, review below 0.6 confidence",belt,breakage,,
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test,"TF-IDF, review below 0.6 confidence",gearbox,wear,,
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",sensor,electrical,,
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test,"TF-IDF, review below 0.6 confidence",sensor,,,
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test,"TF-IDF, review below 0.6 confidence",motor,electrical,,
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test,"TF-IDF, review below 0.6 confidence",belt,wear,,
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test,"TF-IDF, review below 0.6 confidence",belt,breakage,,
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test,"TF-IDF, review below 0.6 confidence",,overheating,,
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test,"TF-IDF, review below 0.6 confidence",gearbox,,,
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test,"TF-IDF, review below 0.6 confidence",gearbox,,,
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test,"TF-IDF, review below 0.6 confidence",,contamination,,
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test,"TF-IDF, review below 0.6 confidence",gearbox,,,
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test,"TF-IDF, review below 0.6 confidence",,contamination,,
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test,"TF-IDF, review below 0.6 confidence",,,,
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""jaw coupling misaligned""
+}"
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,overheating,,"{
+  ""component"": ""bearing"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Drive end bearing on cv-3 running hot""
+}"
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,breakage,,"{
+  ""component"": ""belt"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""snapped""
+}"
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown failure 'worn',"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""worn"",
+  ""evidence"": ""Ops reported gb-12 down, bearing worn""
+}
+```"
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,seal,wear,,"```json
+{
+  ""component"": ""seal"",
+  ""failure"": ""wear"",
+  ""evidence"": ""F-2: seal worn out""
+}
+```"
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""prox tripped""
+}
+```"
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,wear,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""wear"",
+  ""evidence"": ""worn out""
+}"
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,wear,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""wear"",
+  ""evidence"": ""Ex-1: cplg showing wear""
+}
+```"
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,wear,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""wear"",
+  ""evidence"": ""reducer worn out""
+}"
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""found reducer leaking oil""
+}"
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,contamination,,"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""M-4 bearings full of debris.""
+}
+```"
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,breakage,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""found hyd hose broken on gb-12, replaced""
+}"
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,misalignment,,"```json
+{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""out of alignment""
+}
+```"
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,breakage,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""broken""
+}"
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,electrical,,"```json
+{
+  ""component"": ""sensor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""no power on""
+}
+```"
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,wear,,"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""wear"",
+  ""evidence"": ""bearings on PR-9 tracking off, replaced""
+}
+```"
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown failure 'misaligned',"{
+  ""component"": ""belt"",
+  ""failure"": ""misaligned"",
+  ""evidence"": ""M-4 down, belt misaligned""
+}"
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,misalignment,,"{
+  ""component"": ""belt"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""out of alignment""
+}"
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'v-belt',"{
+  ""component"": ""v-belt"",
+  ""failure"": ""loose"",
+  ""evidence"": ""GB-12 came loose""
+}"
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,breakage,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""snapped""
+}"
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown failure 'worn out',"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""worn out"",
+  ""evidence"": ""Ops reported p-101 down, bearing worn out""
+}
+```"
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown failure 'cracked',"{
+  ""component"": ""belt"",
+  ""failure"": ""cracked"",
+  ""evidence"": ""found drive belt cracked on CV-5""
+}"
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,wear,,"```json
+{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""wear"",
+  ""evidence"": ""cv-5 down, hyd hose showing wear""
+}
+```"
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""cplg came loose""
+}"
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,electrical,,"```json
+{
+  ""component"": ""sensor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""Ops reported cv-5 down, photo eye shorted""
+}
+```"
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'mech seal',"{
+  ""component"": ""mech seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""F-2: mech seal leaking oil""
+}"
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,breakage,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""F-2 cplg snapped.""
+}"
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""cracked""
+}"
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""Coupling on p-101 loose""
+}"
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,overheating,,"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""drive end bearing hot to touch""
+}
+```"
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,breakage,,"{
+  ""component"": ""belt"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""drive belt broken""
+}"
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,overheating,,"```json
+{
+  ""component"": ""bearing"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""hot to touch""
+}
+```"
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""reducer overheating""
+}
+```"
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""mtr on CV-3 hot to touch""
+}"
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""Ops reported ex-1 down, brg tracking off, adjusted""
+}
+```"
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,wear,,"{
+  ""component"": ""bearing"",
+  ""failure"": ""wear"",
+  ""evidence"": ""WORN OUT""
+}"
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,loose,,"{
+  ""component"": ""belt"",
+  ""failure"": ""loose"",
+  ""evidence"": ""P-101 belt came loose.""
+}"
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,wear,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""wear"",
+  ""evidence"": ""jaw coupling showing wear""
+}
+```"
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,misalignment,,"```json
+{
+  ""component"": ""belt"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""CV-3: belt out of alignment - will chk next shift""
+}
+```"
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'v-belt',"```json
+{
+  ""component"": ""v-belt"",
+  ""failure"": ""wear"",
+  ""evidence"": ""v-belt showing wear""
+}
+```"
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,contamination,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""CT-1 gearbox contaminated.""
+}
+```"
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'drive end bearing',"{
+  ""component"": ""drive end bearing"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""P-101 DOWN, DRIVE END BEARING RUNNING HOT""
+}"
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""COUPLING CAME LOOSE""
+}"
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,breakage,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""CV-3: hydraulic hose broken""
+}"
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,wear,,"{
+  ""component"": ""belt"",
+  ""failure"": ""wear"",
+  ""evidence"": ""v-belt on CV-5 worn""
+}"
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"```json
+{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""drive motor tripped""
+}
+```"
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""jaw coupling out of alignment""
+}"
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"```json
+{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""PR-9 down, hose leaking""
+}
+```"
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"```json
+{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""sensor full of debris""
+}
+```"
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""photo eye misaligned""
+}"
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""drive motor overheating""
+}"
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""photo eye full of debris""
+}"
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'v-belt',"{
+  ""component"": ""v-belt"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""snapped""
+}"
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,wear,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""wear"",
+  ""evidence"": ""gear box worn out""
+}
+```"
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,electrical,,"```json
+{
+  ""component"": ""sensor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""no power""
+}
+```"
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""SENSOR ON M-4 DIRTY""
+}"
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""drive motor no power""
+}"
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,wear,,"```json
+{
+  ""component"": ""belt"",
+  ""failure"": ""wear"",
+  ""evidence"": ""v-belt showing wear on M-4""
+}
+```"
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,belt,breakage,,"{
+  ""component"": ""belt"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""V-belt on gb-12 snapped""
+}"
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"```json
+{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found brg overheating on f-2""
+}
+```"
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""tightened""
+}"
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""found timing strap wobbling on PR-9""
+}"
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""HYD LINE ON P-101 PUDDLING""
+}"
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""Gb-12: spider insert pitted - replaced""
+}"
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""ops reported F-2 down, gear drive full of grit""
+}"
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""P-101 gear drive discolored from heat.""
+}
+```"
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""poly-v on CV-3 pitted""
+}"
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""pillow block smoking""
+}"
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,electrical,,"```json
+{
+  ""component"": ""motor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""prime mover lost a phase""
+}
+```"
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'timing strap'; unknown failure 'pitted',"```json
+{
+  ""component"": ""timing strap"",
+  ""failure"": ""pitted"",
+  ""evidence"": ""F-2 timing strap pitted.""
+}
+```"
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found gear case smoking on CT-1""
+}"
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'timing strap'; unknown failure 'chewed up',"{
+  ""component"": ""timing strap"",
+  ""failure"": ""chewed up"",
+  ""evidence"": ""Timing strap on ex-1 chewed up""
+}"
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""PU-7 crooked""
+}"
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""CV-5: gear drive seeping""
+}"
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,evidence is not quoted from the work order,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""gearcase weeping""
+}"
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""weeping""
+}"
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""PU-7 transducer crooked. tightened""
+}"
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""weeping""
+}"
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""CV-3 transducer full of grit.""
+}"
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""F-2: hyd line seeping""
+}"
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""PU-7 gear drive seeping.""
+}"
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""pillow block gunked up""
+}"
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'timing strap',"{
+  ""component"": ""timing strap"",
+  ""failure"": ""loose"",
+  ""evidence"": ""tightened""
+}"
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'packing gland'; unknown failure 'pitting',"{
+  ""component"": ""packing gland"",
+  ""failure"": ""pitting"",
+  ""evidence"": ""packing gland pitted""
+}"
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'spider insert'; unknown failure 'wobbling',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""wobbling"",
+  ""evidence"": ""Ops reported pr-9 down, spider insert wobbling""
+}"
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,'seal' cannot have 'contamination',"```json
+{
+  ""component"": ""seal"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""o-ring pitted""
+}
+```"
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""packing gland seeping""
+}"
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""timing strap crooked""
+}
+```"
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""timing strap split""
+}"
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""Ops reported cv-5 down, pillow block full of grit, tagged out""
+}"
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'spider',"```json
+{
+  ""component"": ""spider"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""spider insert crooked""
+}
+```"
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,'bearing' cannot have 'leak',"{
+  ""component"": ""bearing"",
+  ""failure"": ""leak"",
+  ""evidence"": ""roller race glazed""
+}"
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""PRIME MOVER ON CV-5 READING HIGH ON IR GUN""
+}"
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""limit switch on GB-12 full of grit""
+}"
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""found spider insert backed out on PR-9, replaced""
+}"
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'spider insert'; unknown failure 'split',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""split"",
+  ""evidence"": ""Ops reported ex-1 down, spider insert split""
+}"
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Servo on pu-7 discolored from heat""
+}"
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Ex-1: gear drive discolored from heat""
+}
+```"
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""Ops reported cv-3 down, poly-v walking off""
+}"
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""found gear drive seeping""
+}"
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found pillow block discolored from heat on PU-7""
+}"
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,bearing,wear,,"{
+  ""component"": ""bearing"",
+  ""failure"": ""wear"",
+  ""evidence"": ""Pillow block on pr-9 chewed up""
+}"
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""transducer on PR-9 lost a phase, relpaced""
+}"
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""found gear drive pitted on CV-3, adjusted""
+}"
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""clenaed""
+}"
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""pressure line in pieces""
+}"
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,,,unknown component 'spider insert'; unknown failure 'walking off',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""walking off"",
+  ""evidence"": ""Ops reported F-2 down, spider insert walking off""
+}"
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""Pr-9 hyd line split.""
+}"
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""transducer crooked""
+}"
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,breakage,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""GB-12 spider insert fractured. replaced""
+}"
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,breakage,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""found spider insert split on GB-12""
+}"
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,seal,leak,,"```json
+{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""o-ring chewed up""
+}
+```"
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""F-2 shaft connector crooked.""
+}"
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Ops reported ex-1 down, pillow block discolored from heat""
+}"
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,sensor,electrical,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""Found transducer failed megger test on cv-5""
+}"
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,coupling,misalignment,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""Cv-5: pillow block high runout - temp fix, needs pm""
+}
+```"
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""pressure line glazed""
+}"
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""packing gland seeping""
+}"
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found roller race reading high on IR gun on PU-7""
+}"
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test,LLM (Qwen/Qwen2.5-1.5B-Instruct) + validation,hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""cleaned""
+}"
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test,"Keyword rules, then the LLM for the rest",bearing,overheating,,
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test,"Keyword rules, then the LLM for the rest",belt,breakage,,
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test,"Keyword rules, then the LLM for the rest",bearing,wear,,
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test,"Keyword rules, then the LLM for the rest",seal,wear,,
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test,"Keyword rules, then the LLM for the rest",sensor,electrical,,
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,wear,,
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test,"Keyword rules, then the LLM for the rest",coupling,wear,,
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test,"Keyword rules, then the LLM for the rest",gearbox,wear,,
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test,"Keyword rules, then the LLM for the rest",gearbox,leak,,
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test,"Keyword rules, then the LLM for the rest",bearing,contamination,,
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,breakage,,
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test,"Keyword rules, then the LLM for the rest",sensor,misalignment,,
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,breakage,,
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test,"Keyword rules, then the LLM for the rest",sensor,electrical,,
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test,"Keyword rules, then the LLM for the rest",bearing,misalignment,,
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test,"Keyword rules, then the LLM for the rest",belt,misalignment,,
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test,"Keyword rules, then the LLM for the rest",belt,misalignment,,
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test,"Keyword rules, then the LLM for the rest",belt,loose,,
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,breakage,,
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test,"Keyword rules, then the LLM for the rest",bearing,wear,,
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test,"Keyword rules, then the LLM for the rest",belt,breakage,,
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,wear,,
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test,"Keyword rules, then the LLM for the rest",coupling,loose,,
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test,"Keyword rules, then the LLM for the rest",sensor,electrical,,
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test,"Keyword rules, then the LLM for the rest",seal,leak,,
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test,"Keyword rules, then the LLM for the rest",coupling,breakage,,
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,breakage,,
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test,"Keyword rules, then the LLM for the rest",coupling,loose,,
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test,"Keyword rules, then the LLM for the rest",bearing,overheating,,
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test,"Keyword rules, then the LLM for the rest",belt,breakage,,
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test,"Keyword rules, then the LLM for the rest",bearing,overheating,,
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test,"Keyword rules, then the LLM for the rest",motor,overheating,,
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test,"Keyword rules, then the LLM for the rest",bearing,misalignment,,
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test,"Keyword rules, then the LLM for the rest",coupling,wear,,
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test,"Keyword rules, then the LLM for the rest",belt,loose,,
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test,"Keyword rules, then the LLM for the rest",coupling,wear,,
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test,"Keyword rules, then the LLM for the rest",belt,misalignment,,
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test,"Keyword rules, then the LLM for the rest",belt,wear,,
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test,"Keyword rules, then the LLM for the rest",gearbox,contamination,,
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test,"Keyword rules, then the LLM for the rest",bearing,overheating,,
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test,"Keyword rules, then the LLM for the rest",coupling,loose,,
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,breakage,,
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test,"Keyword rules, then the LLM for the rest",belt,wear,,
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test,"Keyword rules, then the LLM for the rest",motor,electrical,,
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test,"Keyword rules, then the LLM for the rest",sensor,misalignment,,
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test,"Keyword rules, then the LLM for the rest",motor,overheating,,
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test,"Keyword rules, then the LLM for the rest",belt,breakage,,
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test,"Keyword rules, then the LLM for the rest",gearbox,wear,,
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test,"Keyword rules, then the LLM for the rest",sensor,electrical,,
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test,"Keyword rules, then the LLM for the rest",motor,electrical,,
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test,"Keyword rules, then the LLM for the rest",belt,wear,,
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test,"Keyword rules, then the LLM for the rest",belt,breakage,,
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test,"Keyword rules, then the LLM for the rest",bearing,overheating,,
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""tightened""
+}"
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""found timing strap wobbling on PR-9""
+}"
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""HYD LINE ON P-101 PUDDLING""
+}"
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test,"Keyword rules, then the LLM for the rest",gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""Gb-12: spider insert pitted - replaced""
+}"
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test,"Keyword rules, then the LLM for the rest",gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""ops reported F-2 down, gear drive full of grit""
+}"
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""P-101 gear drive discolored from heat.""
+}
+```"
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""poly-v on CV-3 pitted""
+}"
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""pillow block smoking""
+}"
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test,"Keyword rules, then the LLM for the rest",motor,electrical,,"```json
+{
+  ""component"": ""motor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""prime mover lost a phase""
+}
+```"
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'timing strap'; unknown failure 'pitted',"```json
+{
+  ""component"": ""timing strap"",
+  ""failure"": ""pitted"",
+  ""evidence"": ""F-2 timing strap pitted.""
+}
+```"
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found gear case smoking on CT-1""
+}"
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'timing strap'; unknown failure 'chewed up',"{
+  ""component"": ""timing strap"",
+  ""failure"": ""chewed up"",
+  ""evidence"": ""Timing strap on ex-1 chewed up""
+}"
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test,"Keyword rules, then the LLM for the rest",sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""PU-7 crooked""
+}"
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test,"Keyword rules, then the LLM for the rest",gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""CV-5: gear drive seeping""
+}"
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test,"Keyword rules, then the LLM for the rest",,,evidence is not quoted from the work order,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""gearcase weeping""
+}"
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test,"Keyword rules, then the LLM for the rest",seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""weeping""
+}"
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test,"Keyword rules, then the LLM for the rest",sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""PU-7 transducer crooked. tightened""
+}"
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""weeping""
+}"
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""CV-3 transducer full of grit.""
+}"
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""F-2: hyd line seeping""
+}"
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""PU-7 gear drive seeping.""
+}"
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test,"Keyword rules, then the LLM for the rest",gearbox,contamination,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""pillow block gunked up""
+}"
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'timing strap',"{
+  ""component"": ""timing strap"",
+  ""failure"": ""loose"",
+  ""evidence"": ""tightened""
+}"
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'packing gland'; unknown failure 'pitting',"{
+  ""component"": ""packing gland"",
+  ""failure"": ""pitting"",
+  ""evidence"": ""packing gland pitted""
+}"
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'spider insert'; unknown failure 'wobbling',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""wobbling"",
+  ""evidence"": ""Ops reported pr-9 down, spider insert wobbling""
+}"
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test,"Keyword rules, then the LLM for the rest",,,'seal' cannot have 'contamination',"```json
+{
+  ""component"": ""seal"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""o-ring pitted""
+}
+```"
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test,"Keyword rules, then the LLM for the rest",seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""packing gland seeping""
+}"
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""timing strap crooked""
+}
+```"
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""timing strap split""
+}"
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test,"Keyword rules, then the LLM for the rest",coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""Ops reported cv-5 down, pillow block full of grit, tagged out""
+}"
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'spider',"```json
+{
+  ""component"": ""spider"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""spider insert crooked""
+}
+```"
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test,"Keyword rules, then the LLM for the rest",,,'bearing' cannot have 'leak',"{
+  ""component"": ""bearing"",
+  ""failure"": ""leak"",
+  ""evidence"": ""roller race glazed""
+}"
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test,"Keyword rules, then the LLM for the rest",motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""PRIME MOVER ON CV-5 READING HIGH ON IR GUN""
+}"
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""limit switch on GB-12 full of grit""
+}"
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test,"Keyword rules, then the LLM for the rest",coupling,loose,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""loose"",
+  ""evidence"": ""found spider insert backed out on PR-9, replaced""
+}"
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'spider insert'; unknown failure 'split',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""split"",
+  ""evidence"": ""Ops reported ex-1 down, spider insert split""
+}"
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test,"Keyword rules, then the LLM for the rest",motor,overheating,,"{
+  ""component"": ""motor"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Servo on pu-7 discolored from heat""
+}"
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"```json
+{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Ex-1: gear drive discolored from heat""
+}
+```"
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""Ops reported cv-3 down, poly-v walking off""
+}"
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test,"Keyword rules, then the LLM for the rest",gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""found gear drive seeping""
+}"
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found pillow block discolored from heat on PU-7""
+}"
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test,"Keyword rules, then the LLM for the rest",bearing,wear,,"{
+  ""component"": ""bearing"",
+  ""failure"": ""wear"",
+  ""evidence"": ""Pillow block on pr-9 chewed up""
+}"
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test,"Keyword rules, then the LLM for the rest",sensor,contamination,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""contamination"",
+  ""evidence"": ""transducer on PR-9 lost a phase, relpaced""
+}"
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test,"Keyword rules, then the LLM for the rest",gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""found gear drive pitted on CV-3, adjusted""
+}"
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test,"Keyword rules, then the LLM for the rest",gearbox,leak,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""leak"",
+  ""evidence"": ""clenaed""
+}"
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""pressure line in pieces""
+}"
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test,"Keyword rules, then the LLM for the rest",,,unknown component 'spider insert'; unknown failure 'walking off',"{
+  ""component"": ""spider insert"",
+  ""failure"": ""walking off"",
+  ""evidence"": ""Ops reported F-2 down, spider insert walking off""
+}"
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""Pr-9 hyd line split.""
+}"
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test,"Keyword rules, then the LLM for the rest",sensor,misalignment,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""transducer crooked""
+}"
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test,"Keyword rules, then the LLM for the rest",coupling,breakage,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""GB-12 spider insert fractured. replaced""
+}"
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test,"Keyword rules, then the LLM for the rest",coupling,breakage,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""breakage"",
+  ""evidence"": ""found spider insert split on GB-12""
+}"
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test,"Keyword rules, then the LLM for the rest",seal,leak,,"```json
+{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""o-ring chewed up""
+}
+```"
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""F-2 shaft connector crooked.""
+}"
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""Ops reported ex-1 down, pillow block discolored from heat""
+}"
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test,"Keyword rules, then the LLM for the rest",sensor,electrical,,"{
+  ""component"": ""sensor"",
+  ""failure"": ""electrical"",
+  ""evidence"": ""Found transducer failed megger test on cv-5""
+}"
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test,"Keyword rules, then the LLM for the rest",coupling,misalignment,,"```json
+{
+  ""component"": ""coupling"",
+  ""failure"": ""misalignment"",
+  ""evidence"": ""Cv-5: pillow block high runout - temp fix, needs pm""
+}
+```"
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""pressure line glazed""
+}"
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test,"Keyword rules, then the LLM for the rest",seal,leak,,"{
+  ""component"": ""seal"",
+  ""failure"": ""leak"",
+  ""evidence"": ""packing gland seeping""
+}"
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test,"Keyword rules, then the LLM for the rest",gearbox,overheating,,"{
+  ""component"": ""gearbox"",
+  ""failure"": ""overheating"",
+  ""evidence"": ""found roller race reading high on IR gun on PU-7""
+}"
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test,"Keyword rules, then the LLM for the rest",hydraulic hose,leak,,"{
+  ""component"": ""hydraulic hose"",
+  ""failure"": ""leak"",
+  ""evidence"": ""cleaned""
+}"

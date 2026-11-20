@@ -1,0 +1,241 @@
+id,text,component,failure,wording,split
+WO10044,"found hydraulic hose snapped on P-101, replaced",hydraulic hose,breakage,seen,train
+WO10071,"Found bearing overheating on m-4, tagged out",bearing,overheating,seen,train
+WO10203,"ops reported PU-7 down, belt came loose, adjusted",belt,loose,seen,train
+WO10081,"ops reported EX-1 down, drive end bearing worn out, parts ordeerd",bearing,wear,seen,train
+WO10170,"ops reported F-2 down, hose leaking, repl",hydraulic hose,leak,seen,train
+WO10180,"ops reported CT-1 down, cplg tracking off, replaced",coupling,misalignment,seen,train
+WO10024,"ops reported P-101 down, jaw coupling cracked, wo to flolow",coupling,breakage,seen,train
+WO10184,PR-9: V-BELT OUT OF ALIGNMENT - REPLACED,belt,misalignment,seen,train
+WO10126,M-4: drive motor no power - tagged out,motor,electrical,seen,train
+WO10050,"found drive belt misaligned on CT-1, temp fix, needs PM",belt,misalignment,seen,train
+WO10087,"found gear box leaking oil on CT-1, repl",gearbox,leak,seen,train
+WO10004,"found belt worn out on EX-1, replaced",belt,wear,seen,train
+WO10057,"found jaw coupling loose on M-4, temp fix, needs PM",coupling,loose,seen,train
+WO10228,M-4 jaw coupling snapped. tagged out,coupling,breakage,seen,train
+WO10025,CV-5 coupling came loose. tagged out,coupling,loose,seen,train
+WO10216,F-2 sensor tracking off. repl,sensor,misalignment,seen,train
+WO10078,F-2 prox contaminated. parts ordered,sensor,contamination,seen,train
+WO10120,CT-1 mech seal leaking. repalced,seal,leak,seen,train
+WO10194,"OPS REPORTED CV-5 DOWN, BELT WORN, REPL",belt,wear,seen,train
+WO10075,EX-1 hyd hose showing wear. replaced,hydraulic hose,wear,seen,train
+WO10091,"DRIVE END BEARING ON M-4 MISALIGNED, WILL CHK NEXT SHFIT",bearing,misalignment,seen,train
+WO10059,CV-5 coupling worn. cleaned,coupling,wear,seen,train
+WO10013,"ops reported F-2 down, shaft seal dripping, will chk next shift",seal,leak,seen,train
+WO10171,PR-9: v-belt came loose - tagged out,belt,loose,seen,train
+WO10045,PU-7 seal leaking oil. will chk next shift,seal,leak,seen,train
+WO10234,"GEAR BOX ON F-2 HOT TO TOUCH, REPL",gearbox,overheating,seen,train
+WO10117,"drive end bearing on M-4 misaligned, tightneed",bearing,misalignment,seen,train
+WO10162,"ops reported EX-1 down, brg out of alignment, repl",bearing,misalignment,seen,train
+WO10134,CT-1: GEARBOX OVERHEATING - CLEANED,gearbox,overheating,seen,train
+WO10103,"ops reported GB-12 down, sensor tracking off, claened",sensor,misalignment,seen,train
+WO10235,CV-5 bearing worn. parts ordered,bearing,wear,seen,train
+WO10033,CV-3 drive motor tripped. wo to follow,motor,electrical,seen,train
+WO10095,"hyd hose on F-2 snapped, adjusted",hydraulic hose,breakage,seen,train
+WO10112,M-4 hose leaking oil. tgihtened,hydraulic hose,leak,seen,train
+WO10089,"CV-3 sensor tracking off. reset, monitoring",sensor,misalignment,seen,train
+WO10012,"ops reported GB-12 down, hydraulic hose cracked, wo to follow",hydraulic hose,breakage,seen,train
+WO10188,M-4: hose snapped - adjusetd,hydraulic hose,breakage,seen,train
+WO10005,"Ops reported f-2 down, v-belt tracking off, tagged out",belt,misalignment,seen,train
+WO10179,"ops reported PR-9 down, coupling snapped, repl",coupling,breakage,seen,train
+WO10132,"Ops reported ex-1 down, v-belt broken, tightened",belt,breakage,seen,train
+WO10129,"ops reported CV-3 down, bearings worn, tagged out",bearing,wear,seen,train
+WO10210,PR-9: cplg misaligned - will chk next shift,coupling,misalignment,seen,train
+WO10037,"found drive motor hot to touch on EX-1, will chk next shift",motor,overheating,seen,train
+WO10220,CT-1: drive motor no power - tagged out,motor,electrical,seen,train
+WO10068,PU-7: motor hot to touch - cleaned,motor,overheating,seen,train
+WO10074,"Drive end bearing on pu-7 running hot, reset, monitoring",bearing,overheating,seen,train
+WO10221,"shaft seal on EX-1 leaking oil, claened",seal,leak,seen,train
+WO10138,"v-belt on P-101 out of alignment, adjutsed",belt,misalignment,seen,train
+WO10199,"hyd hose on PR-9 worn, adjutsed",hydraulic hose,wear,seen,train
+WO10151,"Drive belt on pr-9 worn, temp fix, needs pm",belt,wear,seen,train
+WO10127,"Ops reported p-101 down, cplg came loose, repl",coupling,loose,seen,train
+WO10182,"M-4: reducer dripping - reset, monitoirng",gearbox,leak,seen,train
+WO10143,CT-1 hyd hose broken. adjusted,hydraulic hose,breakage,seen,train
+WO10148,"FOUND SEAL DRIPPING ON GB-12, REPL",seal,leak,seen,train
+WO10061,"Found drive end bearing worn out on pu-7, replaced",bearing,wear,seen,train
+WO10135,Pr-9: coupling misaligned - cleaned,coupling,misalignment,seen,train
+WO10064,"FOUND HYD HOSE WORN OUT ON P-101, TAGGED OUT",hydraulic hose,wear,seen,train
+WO10062,"ops reported F-2 down, jaw coupling worn, tagged out",coupling,wear,seen,train
+WO10083,PR-9 hyd hose worn. tihgtened,hydraulic hose,wear,seen,train
+WO10191,"ops reported CV-3 down, drive end bearing overheating, parts ordeerd",bearing,overheating,seen,train
+WO10101,GB-12: gear box dripping - adjusted,gearbox,leak,seen,train
+WO10186,CV-3 motor shorted. parts ordered,motor,electrical,seen,train
+WO10030,"drive belt on PR-9 worn, replaced",belt,wear,seen,train
+WO10010,"found hydraulic hose leaking on CT-1, celaned",hydraulic hose,leak,seen,train
+WO10006,"found belt cracked on CT-1, tagged out",belt,breakage,seen,train
+WO10043,"gear box on EX-1 leaking oil, cleaned",gearbox,leak,seen,train
+WO10196,"belt on CT-1 misaligned, cleaned",belt,misalignment,seen,train
+WO10039,"Found mech seal dripping on gb-12, temp fix, needs pm",seal,leak,seen,train
+WO10215,"ops reported GB-12 down, bearings contaminated, cleaned",bearing,contamination,seen,train
+WO10111,"cplg on PR-9 worn, wo to follow",coupling,wear,seen,train
+WO10060,"Ops reported gb-12 down, gear box leaking oil, adjusted",gearbox,leak,seen,train
+WO10020,PU-7: reducer worn - parts ordered,gearbox,wear,seen,train
+WO10115,F-2: drive belt worn - tagged out,belt,wear,seen,train
+WO10003,"M-4: bearings out of alignment - reset, monitoring",bearing,misalignment,seen,train
+WO10063,CV-3: gear box dripping - tagged out,gearbox,leak,seen,train
+WO10128,"REDUCER ON M-4 SHOWING WEAR, ADJUSTED",gearbox,wear,seen,train
+WO10070,"found coupling out of alignment on M-4, cleaned",coupling,misalignment,seen,train
+WO10140,"hydraulic hose on GB-12 showing wear, tagged out",hydraulic hose,wear,seen,train
+WO10193,"Jaw coupling on m-4 came loose, parts ordered",coupling,loose,seen,train
+WO10141,"Found photo eye shorted on ct-1, wo to follow",sensor,electrical,seen,train
+WO10109,CV-5: belt worn - replaced,belt,wear,seen,train
+WO10154,"Found hyd hose cracked on m-4, repl",hydraulic hose,breakage,seen,train
+WO10167,"drive motor on PU-7 overheating, repl",motor,overheating,seen,train
+WO10214,"ops reported F-2 down, gearbox running hot, parts ordered",gearbox,overheating,seen,train
+WO10187,"Found reducer dripping on pu-7, parts ordered",gearbox,leak,seen,train
+WO10040,"Found cplg cracked on pu-7, will chk next shift",coupling,breakage,seen,train
+WO10036,"F-2: mtr hot to touch - reset, monitoring",motor,overheating,seen,train
+WO10136,"ops reported GB-12 down, bearings dirty, adjusted",bearing,contamination,seen,train
+WO10082,PR-9 mech seal leaking oil. adjusted,seal,leak,seen,train
+WO10053,M-4 cplg came loose. tagged out,coupling,loose,seen,train
+WO10223,F-2 reducer contaminated. wo to follow,gearbox,contamination,seen,train
+WO10113,"P-101 shaft seal leaking. temp fix, needs PM",seal,leak,seen,train
+WO10041,"Found reducer contaminated on f-2, tightened",gearbox,contamination,seen,train
+WO10168,"Ops reported f-2 down, mech seal leaking oil, wo to follow",seal,leak,seen,train
+WO10209,"sensor on CV-5 full of debris, parts ordered",sensor,contamination,seen,train
+WO10225,"Ops reported m-4 down, reducer dirty, repl",gearbox,contamination,seen,train
+WO10146,"PR-9 HOSE DRIPPING. RESET, MONITORING",hydraulic hose,leak,seen,train
+WO10079,Pr-9: prox tracking off - cleaned,sensor,misalignment,seen,train
+WO10149,CT-1: mtr no power - replaced,motor,electrical,seen,train
+WO10034,"Pr-9: sensor no power - temp fix, needs pm",sensor,electrical,seen,train
+WO10086,"shaft seal on CV-5 worn, reset, monitoring",seal,wear,seen,train
+WO10133,"found bearing hot to touch on GB-12, wo to follow",bearing,overheating,seen,train
+WO10048,P-101 mech seal worn. will chk next shift,seal,wear,seen,train
+WO10232,P-101 gear box full of debris. relpaced,gearbox,contamination,seen,train
+WO10192,CT-1 photo eye no power. tagged out,sensor,electrical,seen,train
+WO10181,Cv-3 mtr overheating. cleaned,motor,overheating,seen,train
+WO10072,"seal on CV-5 worn out, tightened",seal,wear,seen,train
+WO10066,"Found gear box dripping on pu-7, repl",gearbox,leak,seen,train
+WO10157,F-2 PHOTO EYE SHORTED. CLENAED,sensor,electrical,seen,train
+WO10015,"found sensor tripped on CT-1, reset, monitoring",sensor,electrical,seen,train
+WO10021,"ops reported EX-1 down, gear box full of debris, repl",gearbox,contamination,seen,train
+WO10014,"ops reported F-2 down, seal worn, parts ordered",seal,wear,seen,train
+WO10017,"found photo eye out of alignment on P-101, tightened",sensor,misalignment,seen,train
+WO10029,"found reducer worn on M-4, tagged out",gearbox,wear,seen,train
+WO10201,"Found hydraulic hose worn on cv-3, adjusted",hydraulic hose,wear,seen,train
+WO10121,Ct-1 motor hot to touch. parts ordered,motor,overheating,seen,train
+WO10116,"found photo eye out of alignment on PR-9, temp fix, needs PM",sensor,misalignment,seen,train
+WO10160,"found hyd hose cracked on EX-1, reset, monitoring",hydraulic hose,breakage,seen,train
+WO10164,"OPS REPORTED CV-3 DOWN, DRIVE END BEARING WORN OUT, WO TO FOLLOW",bearing,wear,seen,train
+WO10153,"found belt worn out on PR-9, relpaced",belt,wear,seen,train
+WO10058,"coupling on GB-12 broken, adjusted",coupling,breakage,seen,train
+WO10177,"OPS REPORTED P-101 DOWN, REDUCER CONTAMINATED, RESET, MNOITORING",gearbox,contamination,seen,train
+WO10011,"hyd hose on CV-3 worn out, tightened",hydraulic hose,wear,seen,train
+WO10073,CT-1 drive belt broken. tagged out,belt,breakage,seen,train
+WO10147,PU-7 gearbox worn out. replaced,gearbox,wear,seen,train
+WO10026,"ops reported M-4 down, drive belt out of alignment, tagged out",belt,misalignment,seen,train
+WO10076,"Found seal worn on ct-1, reset, monitoring",seal,wear,seen,train
+WO10100,"hyd hose on PU-7 showing wear, wo to follow",hydraulic hose,wear,seen,train
+WO10205,"Gearbox on m-4 overheating, celaned",gearbox,overheating,seen,train
+WO10165,CV-3: V-BELT WORN - ADJUSTED,belt,wear,seen,train
+WO10085,"sensor on CV-3 no power, repl",sensor,electrical,seen,train
+WO10099,"FOUND HYD HOSE LEAKING ON GB-12, PARTS ORDERED",hydraulic hose,leak,seen,train
+WO10208,PR-9: v-belt tracking off - will chk next shift,belt,misalignment,seen,train
+WO10219,Pu-7: mtr shorted - tightened,motor,electrical,seen,train
+WO10222,CV-5: mtr running hot - cleaned,motor,overheating,seen,train
+WO10173,"found bearing tracking off on EX-1, parts ordered",bearing,misalignment,seen,train
+WO10224,"FOUND COUPLING WORN OUT ON CV-3, WO TO FOLLOW",coupling,wear,seen,train
+WO10031,EX-1: gear box showing wear - parts ordered,gearbox,wear,seen,train
+WO10142,"reducer on PR-9 worn, tagged out",gearbox,wear,seen,train
+WO10217,P-101: bearings contaminated - will chk next shift,bearing,contamination,seen,train
+WO10239,"drive motor on EX-1 shorted, tagged out",motor,electrical,seen,train
+WO10229,"ops reported GB-12 down, belt tracking off, will chk next shift",belt,misalignment,seen,train
+WO10093,"mtr on GB-12 no power, repl",motor,electrical,seen,train
+WO10130,"cplg on PR-9 worn, repl",coupling,wear,seen,train
+WO10131,"bearing on M-4 tracking off, reset, monitoring",bearing,misalignment,seen,train
+WO10124,"Ops reported gb-12 down, v-belt snapped, repl",belt,breakage,seen,train
+WO10056,"P-101 brg overheating. reset, monitoring",bearing,overheating,seen,train
+WO10002,"ops reported GB-12 down, bearings contaminated, repalced",bearing,contamination,seen,train
+WO10185,"Found coupling misaligned on f-2, temp fix, needs pm",coupling,misalignment,seen,train
+WO10161,Ct-1: jaw coupling slack - cleaned,coupling,loose,seen,train
+WO10027,"found gearbox overheating on CV-3, wo to follow",gearbox,overheating,seen,train
+WO10118,CV-3: mtr no power - repl,motor,electrical,seen,train
+WO10178,"ops reported P-101 down, hydraulic hose broken, repl",hydraulic hose,breakage,seen,train
+WO10204,Cv-3 bearings full of debris. tagged out,bearing,contamination,seen,train
+WO10174,"v-belt on GB-12 showing wear, reset, monitoring",belt,wear,seen,train
+WO10105,Pr-9: bearings misaligned - adujsted,bearing,misalignment,seen,train
+WO10156,P-101: seal leaking - will chk next shift,seal,leak,seen,train
+WO10163,"reducer on CV-5 hot to touch, reset, monitoring",gearbox,overheating,seen,train
+WO10202,"Found drive motor overheating on cv-3, tightened",motor,overheating,seen,train
+WO10032,"found jaw coupling loose on CT-1, cleaned",coupling,loose,seen,train
+WO10018,"ops reported P-101 down, gear box leaking oil, temp fix, needs PM",gearbox,leak,seen,train
+WO10007,"Belt on p-101 came loose, repl",belt,loose,seen,train
+WO10195,"drive motor on F-2 shorted, wo to follow",motor,electrical,seen,train
+WO10107,"found bearing hot to touch on CV-3, cleaned",bearing,overheating,seen,train
+WO10008,"found mtr running hot on CV-3, replaced",motor,overheating,seen,train
+WO10230,"Ops reported m-4 down, cplg loose, tagged out",coupling,loose,seen,train
+WO10158,"found coupling worn on GB-12, adjusted",coupling,wear,seen,train
+WO10000,Pu-7: drive end bearing worn out - adjusted,bearing,wear,seen,train
+WO10172,"Ops reported pr-9 down, cplg loose, adjusted",coupling,loose,seen,train
+WO10227,"Found motor overheating on pr-9, repl",motor,overheating,seen,train
+WO10119,"coupling on PU-7 misaligned, adjusted",coupling,misalignment,seen,train
+WO10197,"ops reported PR-9 down, hyd hose worn, temp fix, needs PM",hydraulic hose,wear,seen,train
+WO10104,"found drive belt came loose on CV-5, parts ordered",belt,loose,seen,train
+WO10218,"Found drive end bearing misaligned on cv-3, tightened",bearing,misalignment,seen,train
+WO10150,"Coupling on f-2 loose, will chk next shift",coupling,loose,seen,train
+WO10065,"Found drive belt came loose on gb-12, adjusted",belt,loose,seen,train
+WO10102,"bearings on P-101 worn out, repl",bearing,wear,seen,train
+WO10123,CV-3: hyd hose leaking oil - parts ordered,hydraulic hose,leak,seen,train
+WO10110,"Found cplg worn out on ct-1, adjsuted",coupling,wear,seen,train
+WO10200,"M-4 gearbox full of debris. temp fix, needs PM",gearbox,contamination,seen,train
+WO10213,"found cplg broken on CV-3, will chk next shift",coupling,breakage,seen,train
+WO10207,"ops reported GB-12 down, sensor tripped, replaced",sensor,electrical,seen,train
+WO10052,Gb-12 sensor dirty. replaced,sensor,contamination,seen,train
+WO10046,"gearbox on PU-7 dripping, reset, monitoring",gearbox,leak,seen,train
+WO10237,Ex-1: bearings running hot - cleaned,bearing,overheating,seen,train
+WO10190,"Ops reported f-2 down, bearing out of alignment, tagged out",bearing,misalignment,seen,train
+WO10211,"hose on M-4 showing wear, will chk next shift",hydraulic hose,wear,seen,train
+WO10144,EX-1 v-belt misaligned. adujsted,belt,misalignment,seen,train
+WO10166,"brg on CT-1 worn out, will chk next shift",bearing,wear,seen,train
+WO10169,"ops reported PR-9 down, motor no power, parts ordered",motor,electrical,seen,train
+WO10094,"belt on EX-1 tracking off, reset, monitoring",belt,misalignment,seen,train
+WO10080,"found reducer contaminated on F-2, will chk next shift",gearbox,contamination,seen,train
+WO10198,"PU-7: seal showing wear - reset, monitoring",seal,wear,seen,train
+WO10051,"Gearbox on pr-9 full of debris, repl",gearbox,contamination,seen,train
+WO10077,"Ops reported ct-1 down, cplg worn out, repl",coupling,wear,seen,train
+WO10139,"Found drive end bearing running hot on ex-1, temp fix, needs pm",bearing,overheating,seen,train
+WO10054,"Ops reported pu-7 down, prox tracking off, reset, monitoirng",sensor,misalignment,seen,train
+WO10114,"ops reported PU-7 down, gear box overheating, reset, monitoring",gearbox,overheating,seen,train
+WO10042,"found drive motor tripped on CV-3, tightened",motor,electrical,seen,train
+WO10097,Cv-3: hydraulic hose snapped - will chk next shift,hydraulic hose,breakage,seen,train
+WO10183,"found hyd hose cracked on GB-12, tightened",hydraulic hose,breakage,seen,train
+WO10019,"Ops reported pu-7 down, gear box running hot, wo to follow",gearbox,overheating,seen,train
+WO10092,"Bearings on ct-1 misaligned, replaced",bearing,misalignment,seen,train
+WO10231,"EX-1: belt misaligned - reset, monitoring",belt,misalignment,seen,train
+WO10098,P-101: v-belt slack - replaced,belt,loose,seen,train
+WO10159,"GEARBOX ON M-4 FULL OF DEBRIS, TEMP FIX, NEEDS PM",gearbox,contamination,seen,train
+WO10175,"found seal worn on GB-12, temp fix, needs PM",seal,wear,seen,train
+WO10137,CV-5: v-belt slack - tightened,belt,loose,seen,train
+WO10009,"MTR ON CV-5 NO POWER, ADJUSTED",motor,electrical,seen,train
+WO10233,CV-5 shaft seal leaking. tagged out,seal,leak,seen,train
+WO10049,Pr-9 gearbox worn. tightened,gearbox,wear,seen,train
+WO10122,"Pu-7 hose leaking. reset, monitoring",hydraulic hose,leak,seen,train
+WO10055,"found drive belt worn on CT-1, tightened",belt,wear,seen,train
+WO10226,F-2 hyd hose dripping. will chk next sihft,hydraulic hose,leak,seen,train
+WO10038,CV-5: hyd hose dripping - tightened,hydraulic hose,leak,seen,train
+WO10022,GB-12 coupling misaligned. cleaned,coupling,misalignment,seen,train
+WO10176,"ops reported EX-1 down, gear box running hot, wo to follow",gearbox,overheating,seen,train
+WO10212,"Ops reported gb-12 down, shaft seal showing wear, repl",seal,wear,seen,train
+WO10189,Ex-1: jaw coupling tracking off - adjusted,coupling,misalignment,seen,train
+WO10035,"found bearing overheating on M-4, tagged out",bearing,overheating,seen,train
+WO10001,"EX-1 bearings running hot. reset, monitoring",bearing,overheating,seen,train
+WO10069,"hose on F-2 leaking, tightened",hydraulic hose,leak,seen,train
+WO10236,"ops reported CV-5 down, cplg loose, adjusted",coupling,loose,seen,train
+WO10096,"Jaw coupling on pu-7 misaligned, repl",coupling,misalignment,seen,train
+WO10106,M-4: jaw coupling worn - cleaned,coupling,wear,seen,train
+WO10206,"Ops reported ex-1 down, gearbox worn out, wo to follow",gearbox,wear,seen,train
+WO10067,"Coupling on cv-5 snapped, tagged out",coupling,breakage,seen,train
+WO10047,"Coupling on ct-1 tracking off, repl",coupling,misalignment,seen,train
+WO10155,"ops reported P-101 down, mech seal leaking, reset, monitoring",seal,leak,seen,train
+WO10125,CT-1: reducer worn - tagged out,gearbox,wear,seen,train
+WO10238,Cv-5: bearing worn out - tagged out,bearing,wear,seen,train
+WO10028,"ops reported CT-1 down, photo eye tracking off, tagged out",sensor,misalignment,seen,train
+WO10090,"Ops reported ex-1 down, mtr hot to touch, temp fix, needs pm",motor,overheating,seen,train
+WO10084,"Reducer on m-4 showing wear, tagged out",gearbox,wear,seen,train
+WO10088,"Pr-9 drive belt worn. temp fix, needs pm",belt,wear,seen,train
+WO10016,"ops reported EX-1 down, prox dirty, replaced",sensor,contamination,seen,train
+WO10145,"cplg on P-101 broken, tagged out",coupling,breakage,seen,train
+WO10152,M-4: drive end bearing worn out - tighteend,bearing,wear,seen,train
+WO10023,"F-2 jaw coupling showing wear. temp fix, needs pm",coupling,wear,seen,train
+WO10108,"found belt tracking off on CT-1, celaned",belt,misalignment,seen,train

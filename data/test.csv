@@ -1,0 +1,121 @@
+id,text,component,failure,wording,split
+WO20046,P-101: jaw coupling misaligned - replaced,coupling,misalignment,seen,test
+WO20038,"Drive end bearing on cv-3 running hot, adjusted",bearing,overheating,seen,test
+WO20032,"found belt snapped on PR-9, parts ordered",belt,breakage,seen,test
+WO20000,"Ops reported gb-12 down, bearing worn, parts ordered",bearing,wear,seen,test
+WO20014,F-2: seal worn out - adjusted,seal,wear,seen,test
+WO20015,EX-1: prox tripped - tagged out,sensor,electrical,seen,test
+WO20042,"hydraulic hose on PR-9 worn out, wo to follow",hydraulic hose,wear,seen,test
+WO20023,Ex-1: cplg showing wear - wo to follow,coupling,wear,seen,test
+WO20020,CT-1: reducer worn out - adujsted,gearbox,wear,seen,test
+WO20018,"Found reducer leaking oil on f-2, cleaned",gearbox,leak,seen,test
+WO20002,M-4 bearings full of debris. wo to follow,bearing,contamination,seen,test
+WO20052,"Found hyd hose broken on gb-12, replaced",hydraulic hose,breakage,seen,test
+WO20058,"found sensor out of alignment on F-2, repl",sensor,misalignment,seen,test
+WO20053,"hyd hose on GB-12 broken, tightened",hydraulic hose,breakage,seen,test
+WO20029,"found sensor no power on EX-1, cleaned",sensor,electrical,seen,test
+WO20031,"bearings on PR-9 tracking off, replaced",bearing,misalignment,seen,test
+WO20057,"ops reported M-4 down, belt misaligned, adjsuted",belt,misalignment,seen,test
+WO20005,"V-belt on ex-1 out of alignment, replcaed",belt,misalignment,seen,test
+WO20045,"v-belt on GB-12 came loose, repl",belt,loose,seen,test
+WO20012,"found hose snapped on GB-12, replaced",hydraulic hose,breakage,seen,test
+WO20047,"Ops reported p-101 down, bearing worn out, temp fix, needs pm",bearing,wear,seen,test
+WO20050,"found drive belt cracked on CV-5, temp fix, needs PM",belt,breakage,seen,test
+WO20011,"Ops reported cv-5 down, hyd hose showing wear, cleaned",hydraulic hose,wear,seen,test
+WO20039,"ops reported CT-1 down, cplg came loose, wo to follow",coupling,loose,seen,test
+WO20027,"Ops reported cv-5 down, photo eye shorted, adjusted",sensor,electrical,seen,test
+WO20013,F-2: mech seal leaking oil - adjusted,seal,leak,seen,test
+WO20024,F-2 cplg snapped. cleaned,coupling,breakage,seen,test
+WO20051,"found hydraulic hose cracked on P-101, cleaned",hydraulic hose,breakage,seen,test
+WO20035,"Coupling on p-101 loose, parts ordered",coupling,loose,seen,test
+WO20055,EX-1: drive end bearing hot to touch - cleaned,bearing,overheating,seen,test
+WO20049,"found drive belt broken on PR-9, temp fix, needs PM",belt,breakage,seen,test
+WO20036,EX-1: bearing hot to touch - wo to follow,bearing,overheating,seen,test
+WO20019,Ct-1 reducer overheating. wo to follow,gearbox,overheating,seen,test
+WO20043,"mtr on CV-3 hot to touch, wo to follow",motor,overheating,seen,test
+WO20003,"Ops reported ex-1 down, brg tracking off, adjusted",bearing,misalignment,seen,test
+WO20054,"CT-1: CPLG WORN OUT - RESET, MONITORING",coupling,wear,seen,test
+WO20007,P-101 belt came loose. wo to follow,belt,loose,seen,test
+WO20059,CV-3: jaw coupling showing wear - replaced,coupling,wear,seen,test
+WO20034,CV-3: belt out of alignment - will chk next shift,belt,misalignment,seen,test
+WO20037,CV-5: v-belt showing wear - parts ordered,belt,wear,seen,test
+WO20021,CT-1 gearbox contaminated. tightened,gearbox,contamination,seen,test
+WO20001,"OPS REPORTED P-101 DOWN, DRIVE END BEARING RUNNING HOT, PARTS ORDEERD",bearing,overheating,seen,test
+WO20025,PU-7: COUPLING CAME LOOSE - CLEANED,coupling,loose,seen,test
+WO20056,CV-3: hydraulic hose broken - wo to follow,hydraulic hose,breakage,seen,test
+WO20048,"v-belt on CV-5 worn, wo to flolow",belt,wear,seen,test
+WO20009,"Ops reported pu-7 down, drive motor tripped, temp fix, needs pm",motor,electrical,seen,test
+WO20022,"ops reported CT-1 down, jaw coupling out of alignment, tightened",coupling,misalignment,seen,test
+WO20010,"ops reported PR-9 down, hose leaking, temp fix, needs PM",hydraulic hose,leak,seen,test
+WO20044,"ops reported CV-3 down, sensor full of debris, parts ordered",sensor,contamination,seen,test
+WO20017,"Ops reported pu-7 down, photo eye misaligned, parts ordeerd",sensor,misalignment,seen,test
+WO20008,PR-9: drive motor overheating - adjusted,motor,overheating,seen,test
+WO20016,"found photo eye full of debris on PR-9, wo to flolow",sensor,contamination,seen,test
+WO20030,M-4: v-belt snapped - claened,belt,breakage,seen,test
+WO20026,Cv-5: gear box worn out - tigthened,gearbox,wear,seen,test
+WO20033,GB-12 sensor no power. wo to follow,sensor,electrical,seen,test
+WO20040,"SENSOR ON M-4 DIRTY, TIGHTENED",sensor,contamination,seen,test
+WO20041,"ops reported CV-3 down, drive motor no power, parts ordered",motor,electrical,seen,test
+WO20004,"found v-belt showing wear on M-4, tagged out",belt,wear,seen,test
+WO20006,"V-belt on gb-12 snapped, replaced",belt,breakage,seen,test
+WO20028,"Found brg overheating on f-2, temp fix, needs pm",bearing,overheating,seen,test
+WO30006,"poly-v on CV-5 split, tightened",belt,breakage,new,test
+WO30007,"found timing strap wobbling on PR-9, temp fix, needs PM",belt,loose,new,test
+WO30010,"HYD LINE ON P-101 PUDDLING, PARTS ORDERED",hydraulic hose,leak,new,test
+WO30023,Gb-12: spider insert pitted - replaced,coupling,wear,new,test
+WO30021,"ops reported F-2 down, gear drive full of grit, adjusted",gearbox,contamination,new,test
+WO30028,"P-101 gear drive discolored from heat. temp fix, needs PM",gearbox,overheating,new,test
+WO30036,"poly-v on CV-3 pitted, wo to follow",belt,wear,new,test
+WO30044,P-101: pillow block smoking - parts ordered,bearing,overheating,new,test
+WO30009,GB-12: prime mover lost a phase - adjusted,motor,electrical,new,test
+WO30054,F-2 timing strap pitted. repl,belt,wear,new,test
+WO30049,"found gear case smoking on CT-1, cleaned",gearbox,overheating,new,test
+WO30004,"Timing strap on ex-1 chewed up, wo to follow",belt,wear,new,test
+WO30045,"limit switch on PU-7 crooked, tagged out",sensor,misalignment,new,test
+WO30018,CV-5: gear drive seeping - adjusted,gearbox,leak,new,test
+WO30032,Cv-5: gear case weeping - tagged out,gearbox,leak,new,test
+WO30058,"O-ring on pr-9 weeping, replaced",seal,leak,new,test
+WO30039,PU-7 transducer crooked. tightened,sensor,misalignment,new,test
+WO30030,"found hyd line weeping on CV-3, reset, mointoring",hydraulic hose,leak,new,test
+WO30041,CV-3 transducer full of grit. adjusted,sensor,contamination,new,test
+WO30043,F-2: hyd line seeping - parts ordered,hydraulic hose,leak,new,test
+WO30027,PU-7 gear drive seeping. wo to follow,gearbox,leak,new,test
+WO30046,"Found pillow block gunked up on gb-12, reset, monitoring",bearing,contamination,new,test
+WO30055,CV-5 timing strap split. tightened,belt,breakage,new,test
+WO30048,CV-3 packing gland pitted. tihgtened,seal,wear,new,test
+WO30025,"Ops reported pr-9 down, spider insert wobbling, wo to follow",coupling,loose,new,test
+WO30057,Ct-1 o-ring pitted. will chk next shift,seal,wear,new,test
+WO30037,P-101: packing gland seeping - parts ordered,seal,leak,new,test
+WO30056,M-4: timing strap crooked - will chk next shift,belt,misalignment,new,test
+WO30033,Pu-7: timing strap split - replaced,belt,breakage,new,test
+WO30002,"Ops reported cv-5 down, pillow block full of grit, tagged out",bearing,contamination,new,test
+WO30031,"ops reported EX-1 down, spider insert crooked, replaced",coupling,misalignment,new,test
+WO30051,"found roller race glazed on CT-1, replaced",bearing,wear,new,test
+WO30047,"PRIME MOVER ON CV-5 READING HIGH ON IR GUN, PARTS ORDREED",motor,overheating,new,test
+WO30016,"limit switch on GB-12 full of grit, repl",sensor,contamination,new,test
+WO30059,"found spider insert backed out on PR-9, replaced",coupling,loose,new,test
+WO30024,"Ops reported ex-1 down, spider insert split, wo to follow",coupling,breakage,new,test
+WO30008,"Servo on pu-7 discolored from heat, will chk next shift",motor,overheating,new,test
+WO30019,Ex-1: gear drive discolored from heat - will chk next shift,gearbox,overheating,new,test
+WO30005,"Ops reported cv-3 down, poly-v walking off, wo to follow",belt,misalignment,new,test
+WO30040,"Found gear drive seeping on ct-1, wo to follow",gearbox,leak,new,test
+WO30001,"found pillow block discolored from heat on PU-7, temp fix, needs PM",bearing,overheating,new,test
+WO30000,"Pillow block on pr-9 chewed up, adjusted",bearing,wear,new,test
+WO30052,"transducer on PR-9 lost a phase, relpaced",sensor,electrical,new,test
+WO30020,"found gear drive pitted on CV-3, adjusted",gearbox,wear,new,test
+WO30053,"gear drive on EX-1 glazed, clenaed",gearbox,wear,new,test
+WO30012,"ops reported P-101 down, pressure line in pieces, adjusted",hydraulic hose,breakage,new,test
+WO30042,"ops reported F-2 down, spider insert walking off, temp fix, needs PM",coupling,misalignment,new,test
+WO30050,Pr-9 hyd line split. parts odrered,hydraulic hose,breakage,new,test
+WO30017,P-101 transducer crooked. will chk next shift,sensor,misalignment,new,test
+WO30026,GB-12 spider insert fractured. replaced,coupling,breakage,new,test
+WO30034,"found spider insert split on GB-12, parts ordered",coupling,breakage,new,test
+WO30014,F-2 o-ring chewed up. will chk next sihft,seal,wear,new,test
+WO30022,F-2 shaft connector crooked. repl,coupling,misalignment,new,test
+WO30029,"Ops reported ex-1 down, pillow block discolored from heat, will chk next shift",bearing,overheating,new,test
+WO30015,"Found transducer failed megger test on cv-5, parts ordered",sensor,electrical,new,test
+WO30003,"Cv-5: pillow block high runout - temp fix, needs pm",bearing,misalignment,new,test
+WO30035,"Found pressure line glazed on cv-5, reset, monitoring",hydraulic hose,wear,new,test
+WO30013,"Ops reported ex-1 down, packing gland seeping, reset, monitoring",seal,leak,new,test
+WO30038,"found roller race reading high on IR gun on PU-7, wo to follow",bearing,overheating,new,test
+WO30011,"hyd line on GB-12 glazed, cleaned",hydraulic hose,wear,new,test
